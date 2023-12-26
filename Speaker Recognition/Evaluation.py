@@ -1,0 +1,1 @@
+print(model.evaluate(valid_ds))
